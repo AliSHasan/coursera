@@ -11,9 +11,9 @@
 
 /* adding media for large device*/
 @media (min-width : 992px ) {
-  .grid_lg_1,.grid_lg_2,.grid_lg_3,.grid_lg_4,
-  .grid_lg_5,.grid_lg_6,.grid_lg_7,.grid_lg_8,
-  .grid_lg_9,.grid_lg_10,.grid_lg_11,.grid_lg_12{
+  .grid-lg-1,.grid-lg-2,.grid-lg-3,.grid-lg-4,
+  .grid-lg-5,.grid_lg-6,.grid_lg-7,.grid-lg-8,
+  .grid-lg-9,.grid-lg-10,.grid-lg-11,.grid-lg-12{
     float: left;
   }
   .grid-lg-1 {
@@ -59,10 +59,10 @@
 
 
 /* adding media for medium device*/
-@media (min-width: 768px  )and (max-width:991px){
-  .grid_md_1,.grid_md_2,.grid_md_3,.grid_md_4,
-  .grid_md_5,.grid_md_6,.grid_md_7,.grid_md_8,
-  .grid_md_9,.grid_md_10,.grid_md_11,.grid_md_12{
+@media (min-width: 768px  ) and (max-width:991px){
+  .grid-md-1,.grid-md-2,.grid_md-3,.grid-md-4,
+  .grid-md-5,.grid-md-6,.grid_md-7,.grid-md-8,
+  .grid-md-9,.grid-md-10,.grid_md-11,.grid-md-12{
     float: left;
   }
   .grid-md-1 {
@@ -111,9 +111,9 @@
 
 /* adding media for small device*/
 @media (max-width : 767 ) {
-  .grid_sm_1,.grid_sm_2,.grid_sm_3,.grid_sm_4,
-  .grid_sm_5,.grid_sm_6,.grid_sm_7,.grid_sm_8,
-  .grid_sm_9,.grid_sm_10,.grid_sm_11,.grid_sm_12{
+  .grid-sm-1,.grid-sm-2,.grid-sm-3,.grid-sm-4,
+  .grid-sm-5,.grid-sm-6,.grid-sm-7,.grid-sm-8,
+  .grid-sm-9,.grid-sm-10,.grid-sm-11,.grid-sm-12{
     float: left;
   }
   .grid-sm-1 {
