@@ -16,6 +16,7 @@
   .grid-lg-5,.grid_lg-6,.grid_lg-7,.grid-lg-8,
   .grid-lg-9,.grid-lg-10,.grid-lg-11,.grid-lg-12{
     float: left;
+    border: 1px solid blue;
   }
   .grid-lg-1 {
     width: 8.33%;
