@@ -1,1 +1,67 @@
 /* styling index.html*/
+
+body{
+  background: #024d39;
+  color:#000;
+}
+h2,h3{
+  color:  #011226;
+}
+h2{
+  margin-bottom: 30px;
+}
+#header-nav
+{
+  background:#777;
+  border: 0;
+  border-radius: 0;
+}
+
+#header-nav a
+{
+  text-decoration: none;
+  color: black;
+}
+#header-nav a :hover {
+  text-shadow: 1px 1px 5px #f00;
+}
+
+#list li :hover{
+background: #000e72;
+color: #fff;
+text-shadow: 3px 3px 4px #f00;
+
+}
+#list li{
+  text-align: center;
+  font-size: 1.5em;
+
+}
+
+.navbar-header button.navbar-toggle ,.navbar-header .icon-bar
+{
+  border: 1px solid #00f;
+}
+
+
+section{
+  margin-bottom: 20px;
+}
+section div{
+  box-shadow: 3px 3px 5px #000;
+  padding: 10px;
+  background: #777;
+  border:1px solid #000e72;
+}
+section  h3
+{
+  text-align: center;
+}
+section p
+{
+  font-size: 1.2em;
+  color: #011;
+  font-style: italic;
+  font-family: sans-serif;
+  line-height: 1.5em;
+}
